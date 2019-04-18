@@ -1,0 +1,2 @@
+1. 先要调用enableTokenTransfer允许转账
+2. 转账的from账户不能是被锁定的
